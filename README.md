@@ -43,4 +43,4 @@ python station.py --scenario firmware_mismatch
   - MitM benzeri zaman/sıra tutarsızlığı (timestamp_drift)
   - Sahte veri/enerji hırsızlığı (power_spike, non_monotonic_energy)
   - Firmware/versiyon uyumsuzluğu (firmware_mismatch)
-- İstersen `rules.py` içinde eşikleri değiştirebilirsin.
+
