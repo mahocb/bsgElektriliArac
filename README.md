@@ -37,7 +37,7 @@ python station.py --scenario firmware_mismatch
 - Anomali yakalanırsa **STOP_CHARGE** komutu gönderir ve oturumu sonlandırır.
 
 ## Notlar
-- Proje, hocanın anlattığı dört ana problemi **tek akış içinde** simüle eder:
+
   - Zayıf şifreleme (weak_encryption)
   - Yetkisiz erişim (unauthorized)
   - MitM benzeri zaman/sıra tutarsızlığı (timestamp_drift)
